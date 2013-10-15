@@ -1,0 +1,13 @@
+/bootstrap/compiled.php
+/vendor
+/node_modules
+composer.phar
+#composer.lock
+.DS_Store
+/nbproject
+/public/assets/js/app-build
+/public/assets/bower_components
+_ide_*
+/report
+.grunt
+_SpecRunner.html
